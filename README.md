@@ -60,12 +60,12 @@ Para utilizar o webdriver deve ser feito o download do [chromedriver](pagina:htt
 
 ### Opção 1
 
-- Baixar o Notebook e seguir o tutorial disponível em: [ Desafio de  Automação Robótica de Processos- Ravan Novaes de Oliveira  ](https://github.com/ravannovaes/desafio-rpa-selenium/blob/main/Desafio%20de%20%20Automa%C3%A7%C3%A3o%20Rob%C3%B3tica%20de%20Processos-%20Ravan%20Novaes%20de%20Oliveira%20.ipynb);
-- Somente para visulização [Link alternativo via nbviewer](https://nbviewer.org/github/ravannovaes/desafio-rpa-selenium/blob/main/Desafio%20de%20%20Automa%C3%A7%C3%A3o%20Rob%C3%B3tica%20de%20Processos-%20Ravan%20Novaes%20de%20Oliveira%20.ipynb) ;
+- Baixar o Notebook e seguir o tutorial disponível em: [ Desafio de  Automação Robótica de Processos- Ravan Novaes de Oliveira  ](https://github.com/ravannovaes/desafio-rpa-selenium/blob/main/DesafioRPA-%20Ravan%20.ipynb);
+- Somente para visulização [Link alternativo via nbviewer](https://nbviewer.org/github/ravannovaes/desafio-rpa-selenium/blob/main/DesafioRPA-%20Ravan%20.ipynb) ;
 
 ### Opção 2
 
-- Abrir o jupyter notebook, copiar o código [ rpachallenge.py](https://github.com/ravannovaes/rpa-selenium-desafio/blob/main/rpachallenge.py) para uma célula e executar ou em um ambiente de desenvolvimento de sua preferência;
+- Abrir o jupyter notebook, copiar o código [ rpachallenge.py](https://github.com/ravannovaes/desafio-rpa-selenium/blob/main/rpachallenge.py) para uma célula e executar ou em um ambiente de desenvolvimento de sua preferência;
 
 [Back To The Top](#read-me)
 
