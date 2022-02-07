@@ -1,6 +1,6 @@
 ## Processo Seletivo BWA Global
 ## Desafio de Automação Robótica de Processos (RPA)
-### Coordenador Técnico: Elder Santos Candidato : Ravan Novaes de Oliveira Data: 07/01/2022
+### Coordenador Técnico: Elder Santos Candidato : Ravan Novaes de Oliveira Data: 07/02/2022
 
 
 ## Read Me
